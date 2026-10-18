@@ -1,3 +1,7 @@
+```
+magic-hash-00000434871031216900:hmac-sha256-magic-hash-key:0e54716623902408569054496933889872294553517404006854343223678539
+```
+
 ```php
 var_dump(0 == hash_hmac('sha256', 'magic-hash-00000434871031216900', 'hmac-sha256-magic-hash-key'));
 ```
